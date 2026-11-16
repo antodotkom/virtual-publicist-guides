@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antodotkom.github.io/virtual-publicist-guides/sitemap.xml
